@@ -1,0 +1,15 @@
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\bin\Debug\net6.0\WeChatTemplate.exe
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\bin\Debug\net6.0\WeChatTemplate.deps.json
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\bin\Debug\net6.0\WeChatTemplate.runtimeconfig.json
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\bin\Debug\net6.0\WeChatTemplate.dll
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\bin\Debug\net6.0\ref\WeChatTemplate.dll
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\bin\Debug\net6.0\WeChatTemplate.pdb
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\obj\Debug\net6.0\WeChatTemplate.csproj.AssemblyReference.cache
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\obj\Debug\net6.0\WeChatTemplate.GeneratedMSBuildEditorConfig.editorconfig
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\obj\Debug\net6.0\WeChatTemplate.AssemblyInfoInputs.cache
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\obj\Debug\net6.0\WeChatTemplate.AssemblyInfo.cs
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\obj\Debug\net6.0\WeChatTemplate.csproj.CoreCompileInputs.cache
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\obj\Debug\net6.0\WeChatTemplate.dll
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\obj\Debug\net6.0\ref\WeChatTemplate.dll
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\obj\Debug\net6.0\WeChatTemplate.pdb
+E:\微博文章项目记录\WebClogXSEvan\WeChatTemplate\WeChatTemplate\obj\Debug\net6.0\WeChatTemplate.genruntimeconfig.cache
